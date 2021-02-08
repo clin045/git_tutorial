@@ -1,3 +1,4 @@
 ears
 nose
 paws
+tail
